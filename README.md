@@ -1,0 +1,1 @@
+# AMD_Medal_Analiz_Project_MBA
