@@ -7,6 +7,8 @@ The aim of this project is to develop a system for identifying frequent itemsets
 In the project, we obtained data from Kaggle and utilized it for our analyses. The data preparation and analysis files are available below.
 
 AMD_Project_2_Medal_Analiz_and_Model_P.ipynb
+
+
 AMD_Medal_Analiz_Project_MBA_ER_967585.pdf
 
 
